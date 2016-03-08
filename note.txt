@@ -1,0 +1,34 @@
+https://github.com/janhenkgerritsen/codeception-laravel5-sample/blob/codeception-2.1/tests/functional/PostCrudCest.php
+
+Start code ception
+to test (user for login)
+http://zerosprites.com/mine/
+$ php artisan cache:clear
+
+php composer.phar install
+
+rm -rf lampp
+Bella: email ke tech@kurio.co.id cc rifad@kurio.co.id
+
+
+$ php artisan clear-compiled
+$temp=Hash::make('lamhot@kurio.co.id');
+dd($temp);
+
+php artisan vendor:publish
+
+php artisan migrate --seed --env="sqlite_testing"
+
+php artisan make:test UserTest
+
+php artisan make:seeder UsersTableSeeder
+
+http://code.tutsplus.com/tutorials/testing-like-a-boss-in-laravel-models--net-30087
+
+$ php artisan cache:clear
+php composer.phar update
+git branch -D the_local_branch
+
+https://github.com/janhenkgerritsen/codeception-laravel5-sample
+
+ssh-keygen -t rsa -C "lamhot@homestead"
